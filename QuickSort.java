@@ -20,9 +20,6 @@ public class QuickSort {
      * Note that there may be duplicates in the array, but they may not
      * necessarily stay in the same relative order.
      * 
-     * Make sure you code the algorithm as you have been taught it in class.
-     * There are several versions of this algorithm and you may not get full
-     * credit if you do not use the one we have taught you!
      *
      * @throws IllegalArgumentException if the array or comparator or rand is
      * null
